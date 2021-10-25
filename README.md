@@ -1,3 +1,3 @@
 # Pratik-Sufle-Tarifi
 Sufle Tarifi web site 
-![Sufle Resim](assets/sufle.jpg)
+![Sufle Resim] (assets/sufle.jpg)
